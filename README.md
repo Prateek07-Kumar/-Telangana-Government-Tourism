@@ -1,5 +1,3 @@
-# -Telangana-Government-Tourism
-
 ## Provide Insights to Telangana Government Tourism Department
 
 ## Domain: Tourism | Function: Revenue / Municipal Administration
